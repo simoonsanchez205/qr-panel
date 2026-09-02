@@ -1,8 +1,1 @@
-{
-  "rewrites": [
-    { "source": "/s/:code", "destination": "/api/scan?code=:code" }
-  ],
-  "toolbar": {
-    "enabled": false
-  }
-}
+{"framework":"nextjs"}
